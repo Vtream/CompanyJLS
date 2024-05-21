@@ -1,12 +1,259 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\databaseinitializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\databaseinitializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\detallestarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\detallestarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\rol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\rol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Factura.cs",
+              "RelativeToolTip": "Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:14:18.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:16:04.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T20:12:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseInitializer1.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DatabaseInitializer1.cs",
+              "RelativeDocumentMoniker": "Models\\DatabaseInitializer1.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DatabaseInitializer1.cs",
+              "RelativeToolTip": "Models\\DatabaseInitializer1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:09:31.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Models\\Context.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Context.cs",
+              "RelativeToolTip": "Models\\Context.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:05:04.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:27:35.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rol1.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Rol1.cs",
+              "RelativeDocumentMoniker": "Models\\Rol1.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Rol1.cs",
+              "RelativeToolTip": "Models\\Rol1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:34:12.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:39:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetallesTarjetas.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DetallesTarjetas.cs",
+              "RelativeDocumentMoniker": "Models\\DetallesTarjetas.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DetallesTarjetas.cs",
+              "RelativeToolTip": "Models\\DetallesTarjetas.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:33:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormadePago.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\FormadePago.cs",
+              "RelativeDocumentMoniker": "Models\\FormadePago.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\FormadePago.cs",
+              "RelativeToolTip": "Models\\FormadePago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:28:45.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Plato.cs",
+              "RelativeDocumentMoniker": "Models\\Plato.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Plato.cs",
+              "RelativeToolTip": "Models\\Plato.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:24:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "Models\\DetalleFactura.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:21:29.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bodega.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Bodega.cs",
+              "RelativeDocumentMoniker": "Models\\Bodega.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Bodega.cs",
+              "RelativeToolTip": "Models\\Bodega.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:52:13.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T20:44:08.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

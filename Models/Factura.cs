@@ -11,7 +11,7 @@ namespace CompanyJLSUNOF.Models
     {
         [ScaffoldColumn(false)]
         public int CodigoFactura { get; set; }
-        [Required, StringLength(100), Display(Name ="")]
+        [Required, StringLength(100), Display(Name ="codigo")]
 
         public string fecha { get; set;}
         [Required, StringLength(1000)]
@@ -19,8 +19,12 @@ namespace CompanyJLSUNOF.Models
         public int? idProducto { get; set; }
         public int? Codigo {  get; set; }
         public int? NumerodePago { get; set; }
+
         
-        public virtual Bodega Bodega { get; set; }
-        public virtual DetalleFactura DetalleFactura { get; set; }
+        public virtual Persona Persona { get; set; }
+        public virtual ICollection<Bodega> Bodegas { get; set; }
+        public virtual ICollection<DetalleFactura> DetalleFacturas { get; set; }
+  
+        public virtual ICollection<FormadePago> Formas{ get; set;}
     }
 }

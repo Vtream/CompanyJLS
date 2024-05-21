@@ -11,12 +11,14 @@ namespace CompanyJLSUNOF.Models
     {
         [ScaffoldColumn(false)]
         public int Numerodepago { get; set; }
-        [Required, StringLength(100), Display(Name ="")]
+        [Required, StringLength(100), Display(Name ="id")]
 
         public string Efectivo {  get; set; }
         public string Tarjeta { get; set; }
 
         public int? NumeroTarjeta { get; set; }
-        public virtual DetallesTarjetas DetallesTarjetas { get; set; }
+
+        public virtual FormadePago Formas {  get; set; }
+        public virtual ICollection<DetallesTarjetas> Detalles { get; set;}
     }
 }

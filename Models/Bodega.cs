@@ -14,22 +14,22 @@ namespace CompanyJLSUNOF.Models
         
         [ScaffoldColumn(false)]
         public int idProducto { get; set; }
-        [Required, StringLength(100), Display(Name = "")]
+        [Required, StringLength(100), Display(Name = "id")]
 
         public string NombreProducto { get; set; }
-        [Required, StringLength(1000), Display(Name = ""),DataType(DataType.MultilineText)]
+        [Required, StringLength(1000), Display(Name = "Producto"),DataType(DataType.MultilineText)]
 
         public string FechaVencimiento { get; set; }
         [Required, StringLength(1000)]
 
         public string NombreProveedor { get; set; }
-        [Required, StringLength(1000), Display(Name ="")]
+        [Required, StringLength(1000), Display(Name ="Proveedor")]
 
         public string TelefonoProveedor { get; set; }
         [Required, StringLength(1000),]
 
         public int CantidadInventario { get; set; }
-        [Required, StringLength(1000), Display(Name = "")] 
+        [Required, StringLength(1000), Display(Name = "Inventario")] 
 
         public string Correo {  get; set; }
 

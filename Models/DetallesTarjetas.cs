@@ -11,15 +11,17 @@ namespace CompanyJLSUNOF.Models
     {
         [ScaffoldColumn(false)]
         public int NumeroTarjeta { get; set; }
-        [Required, StringLength(100), Display(Name ="")]
+        [Required, StringLength(100), Display(Name ="id")]
 
         public string NombreTitular { get; set; }
-        [Required, StringLength(1000), Display(Name ="")]
+        [Required, StringLength(1000), Display(Name ="Nombre")]
 
         public string FechaVencimiento { get; set; }
         [Required, StringLength(1000)]
 
         public int CVV {  get; set; }
         [Required, StringLength(1000)]
+
+        public virtual FormadePago FormadePago { get; set; }
     }
 }
