@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\databaseinitializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\databaseinitializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\platolist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:platolist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\detallestarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\detallestarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,12 +63,8 @@
       "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\rol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|c:\\users\\aprendiz\\desktop\\companyjls\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A654B7B-7D3E-4BC9-935A-18A0C596F835}|CompanyJLSUNOF.csproj|solutionrelative:models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Factura.cs",
               "RelativeDocumentMoniker": "Models\\Factura.cs",
@@ -84,20 +92,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "PlatoList.aspx",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\PlatoList.aspx",
+              "RelativeDocumentMoniker": "PlatoList.aspx",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\PlatoList.aspx",
+              "RelativeToolTip": "PlatoList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T20:50:13.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T20:24:01.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
               "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Global.asax.cs",
               "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T20:16:04.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -110,20 +144,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DatabaseInitializer1.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DatabaseInitializer1.cs",
               "RelativeDocumentMoniker": "Models\\DatabaseInitializer1.cs",
               "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DatabaseInitializer1.cs",
               "RelativeToolTip": "Models\\DatabaseInitializer1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAaAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwHoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T20:09:31.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Context.cs",
               "RelativeDocumentMoniker": "Models\\Context.cs",
@@ -136,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -149,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Rol1.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Rol1.cs",
               "RelativeDocumentMoniker": "Models\\Rol1.cs",
@@ -162,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Models\\Persona.cs",
@@ -175,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "DetallesTarjetas.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DetallesTarjetas.cs",
               "RelativeDocumentMoniker": "Models\\DetallesTarjetas.cs",
@@ -188,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "FormadePago.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\FormadePago.cs",
               "RelativeDocumentMoniker": "Models\\FormadePago.cs",
@@ -201,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Plato.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Plato.cs",
               "RelativeDocumentMoniker": "Models\\Plato.cs",
@@ -214,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DetalleFactura.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\DetalleFactura.cs",
               "RelativeDocumentMoniker": "Models\\DetalleFactura.cs",
@@ -227,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Bodega.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Models\\Bodega.cs",
               "RelativeDocumentMoniker": "Models\\Bodega.cs",
@@ -240,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\CompanyJLS\\Site.Master",
               "RelativeDocumentMoniker": "Site.Master",
